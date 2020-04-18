@@ -1,0 +1,22 @@
+@media (max-width: 576px) {
+  #profile {
+    margin-left: 0;
+  }
+}
+#profile {
+  position: relative;
+  margin-top: 3rem;
+  margin-left: 3rem;
+  background-color: #0A2240;
+  padding: 0;
+}
+#profile #profile_content {
+  align-items: center;
+  padding: 20px;
+  color: white !important;
+}
+#profile #profile_content a {
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */

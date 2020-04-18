@@ -1,0 +1,25 @@
+$margin : 3rem;
+
+@media (max-width: 576px) {
+    #profile {
+        margin-left: 0;
+    }
+}
+
+#profile {
+    position: relative;
+    margin-top: $margin;
+    margin-left: $margin;
+    background-color: #0A2240;
+    padding: 0;
+    
+    #profile_content {
+        align-items: center;
+        padding: 20px;
+        color: white !important;
+
+        a {
+            color: white;
+        }
+    }
+}

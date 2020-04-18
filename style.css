@@ -1,0 +1,69 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.container-fluid {
+    background-color: #E4E5E6;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "EB Garamond", sans-serif
+}
+
+
+
+.navbar {
+    background-color: #002D74;
+    color: white;
+}
+
+.navbar a {
+    color: white;
+}
+
+#profile_pic {
+    max-width: 200px;
+}
+
+.container-fluid {
+    
+
+}
+
+main {
+    background-color: #E4E5E6;
+    min-height: 960px;
+}
+
+
+#about_me, #about_me .card, #main_content {
+    margin-top: 3rem;
+}
+
+#main_content {
+    margin-left: 2rem;
+}
+
+#card_content {
+    /* margin-left: 2rem;*/
+}
+
+.card-header {
+    background-color:  #65B2E8;
+}
+
+
+.btn-primary {
+    background-color: #C10230;
+    border-color: #C10230;
+}
+
+#banner img {
+    
+}
+
+@media (max-width: 576px) {
+    #profile {
+        margin-left: 0;
+    }
+}
